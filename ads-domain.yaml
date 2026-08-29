@@ -1,0 +1,8 @@
+# Реклама и трекеры — в REJECT
+payload:
+  - '+.adservice.google.com'
+  - '+.doubleclick.net'
+  - '+.google-analytics.com'
+  - '+.googleadservices.com'
+  - '+.googlesyndication.com'
+  - '+.googletagservices.com'
