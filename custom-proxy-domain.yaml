@@ -181,3 +181,5 @@ payload:
   - '+.akamai.net'
   - '+.edgekey.net'
   - '+.edgesuite.net'
+  # other
+  - '+.speedtest.net'
