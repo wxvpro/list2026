@@ -7,4 +7,3 @@ payload:
   - '+.stripe.network'
   - '+.stripecdn.com'
   - '+.hcaptcha.com'
-  - 'challenges.cloudflare.com'
