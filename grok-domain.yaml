@@ -1,0 +1,10 @@
+# Grok / xAI + оплата (Stripe) — домены
+payload:
+  - '+.grok.com'
+  - '+.x.ai'
+  - '+.grok.x.com'
+  - '+.stripe.com'
+  - '+.stripe.network'
+  - '+.stripecdn.com'
+  - '+.hcaptcha.com'
+  - 'challenges.cloudflare.com'
