@@ -183,3 +183,17 @@ payload:
   - '+.edgesuite.net'
   # other
   - '+.speedtest.net'
+
+  # --- fast.com / lostfilm / rutracker (@Vladimir548, 2026-11-10) ---
+  - '+.fast.com'
+  - '+.nflxvideo.net'
+  - '+.dradis.netflix.com'
+  - '+.lostfilm.tv'
+  - '+.lostfilm.run'
+  - '+.lostfilm.win'
+  - '+.lostfilm.uno'
+  - '+.lostfilm.site'
+  - '+.lostfilm.download'
+  - '+.lostfilms.tv'
+  - '+.retre.org'
+  - '+.rutracker.nl'
